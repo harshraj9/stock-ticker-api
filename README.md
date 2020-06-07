@@ -23,7 +23,7 @@ You can also pass a date parameter as below
 
 {
 	"name": "fb",
-	"date": "20200706" //yyyyddmm
+	"date": "20200706" //FORMAT - yyyyddmm
 }
 
 All the validations for request parameters are covered in API
